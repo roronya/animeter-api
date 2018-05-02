@@ -1,0 +1,19 @@
+@startuml
+
+
+entity production_company {
+    + name
+    --
+}
+
+entity anime {
+    + name
+    --
+    production_company
+    staffs
+    casts
+}
+
+production_company -|{ anime
+
+@enduml
