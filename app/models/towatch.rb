@@ -1,0 +1,2 @@
+class Towatch < ApplicationRecord
+end

@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class WatchTest < ActiveSupport::TestCase
+class TowatchTest < ActiveSupport::TestCase
   # test "the truth" do
   #   assert true
   # end
